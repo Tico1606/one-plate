@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Tico1606/one-plate-mobile
+[submodule "server"]
+	path = server
+	url = https://github.com/Tico1606/one-plate-server

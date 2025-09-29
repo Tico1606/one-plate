@@ -10,8 +10,7 @@ O One-Plate é um aplicativo de gerenciamento de receitas culinárias, desenvolv
 
 ## 📖 Backlog do Produto
 
-<img src="documentation/images/backlog1.png" alt="Backlog parte">
-<img src="documentation/images/backlog2.png" alt="Backlog parte">
+<img src="documentation/images/backlog1Table.png" alt="Backlog parte">
 
 
 ---

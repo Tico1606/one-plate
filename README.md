@@ -19,7 +19,7 @@ O One-Plate é um aplicativo de gerenciamento de receitas culinárias, desenvolv
 
 **Sprint 1**: <img src="documentation/images/sprint-1.png" alt="Backlog parte">
 
-**Sprint 2**: 🚧 Em andamento 🚧
+**Sprint 2**: <img src="documentation/images/sprint-2.png" alt="Backlog parte">
 
 **Sprint 3**: 🚧 Em andamento 🚧
 

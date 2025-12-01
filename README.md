@@ -25,6 +25,11 @@ O One-Plate é um aplicativo de gerenciamento de receitas culinárias, desenvolv
 
 ---
 
+---
+
+## Apk disponivel
+- [Drive](https://drive.google.com/file/d/1Gub3uVIRug2XHyQC47VhVuJhV27I14Ch/view?usp=sharing) Para o apk
+
 ## 🛠️ Tecnologias
 
 ### 📱 Mobile
